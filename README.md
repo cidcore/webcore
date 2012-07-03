@@ -1,0 +1,4 @@
+webcore
+=======
+
+website core scripts
